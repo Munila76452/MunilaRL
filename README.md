@@ -1,0 +1,3 @@
+final aim to make like pufferlib
+for now only n-arm bandit is beign added 
+more coming soon ...
